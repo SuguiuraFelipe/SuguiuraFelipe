@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação:** Bacharel em Direito pela UniCEUB
-- 💼 **Atualmente trabalhando em:** [Insira onde você trabalha ou projetos pessoais]
+- 💼 **Atualmente trabalhando em:** CIF - Lisboa / Portugal
 - 🌱 **Aprendendo:** SQL, PRISMA ORM, MongoDB
 - 🧑‍💻 **Interesses:** Desenvolvimento de software, tecnologias web, machine learning e muito mais!
 
