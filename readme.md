@@ -23,7 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 ## 📈 Estatísticas do GitHub
 
-![Felipe Suguiura's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesuguiura&show_icons=true&theme=radical)
+![Felipe Suguiura's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuguiuraFelipe&show_icons=true&theme=radical)
 
 ---
 
