@@ -23,7 +23,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 ## 📈 Estatísticas do GitHub
 
-![Felipe Suguiura's GitHub stats](<img 
+<img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
