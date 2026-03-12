@@ -20,6 +20,13 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 ---
 
+## 🌐 Entre em Contato
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipesuguiura/)
+- **E-mail:** [felipesuguiura97@gmail.com]
+- **Portfólio:** [Link para o meu portfólio](https://portif-lio-fm.vercel.app/)
+
+---
 ## 📈 Estatísticas do GitHub
 
 <img 
@@ -30,13 +37,3 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
   />
   
 <br/>
-
----
-
-## 🌐 Entre em Contato
-
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/felipesuguiura/)
-- **E-mail:** [felipesuguiura97@gmail.com]
-- **Portfólio:** [Link para o meu portfólio](https://portif-lio-fm.vercel.app/)
-
-Sinta-se à vontade para explorar os repositórios, abrir issues, ou me chamar para colaborar em projetos incríveis. 🚀
