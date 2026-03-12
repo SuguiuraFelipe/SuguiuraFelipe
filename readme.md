@@ -6,19 +6,17 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Formação:** Bacharel em Direito pela UniCEUB
 - 🎓 **Formação:** Atualmente estudando na 42 Lisboa
-- 💼 **Atualmente trabalhando em:** CIF - Lisboa / Portugal
-- 🌱 **Aprendendo:** SQL, JAVA Spring, Angular
-- 🧑‍💻 **Interesses:** Desenvolvimento de software, tecnologias web, machine learning e muito mais!
+- 💼 **Atualmente trabalhando em: Freelance
+- 🧑‍💻 **Interesses:** Desenvolvimento de software, tecnologias web, machine learning.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** [JavaScript, Python, TypeScript, C, JAVA, HTML, CSS]
-- **Frameworks e bibliotecas:** [React, Angular, Spring, Node.js, express, Bootstrap]
-- **Ferramentas:** [Git, github]
+- **Linguagens:** JavaScript, Python, TypeScript, C, JAVA, HTML, CSS
+- **Frameworks e bibliotecas:** React, Angular, Spring, Node.js, express, Bootstrap
+- **Ferramentas:** Git, github
 
 ---
 
