@@ -8,7 +8,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 - 🎓 **Formação:** Atualmente estudando na 42 Lisboa
 - 💼 **Atualmente trabalhando em: Freelance
-- 🧑‍💻 **Interesses:** Desenvolvimento de software, tecnologias web, machine learning.
+- 🧑‍💻 **Interesses:** Desenvolvimento de software, tecnologias web, Arquitetura de Software.
 
 ---
 
