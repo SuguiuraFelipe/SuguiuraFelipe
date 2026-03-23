@@ -14,7 +14,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará meus projetos, estudos e contrib
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** JavaScript, Python, TypeScript, C, JAVA, HTML, CSS
+- **Linguagens:** JavaScript, Python, TypeScript, C, C++, JAVA, HTML, CSS
 - **Frameworks e bibliotecas:** React, Angular, Spring, Node.js, express, Bootstrap
 - **Ferramentas:** Git, github
 
